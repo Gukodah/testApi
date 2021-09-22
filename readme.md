@@ -25,19 +25,19 @@ Tho run this project follow the instructions below
    ```sh
    npm start
   ```
-6. Access some of the available routes 
-    ```sh
+==============================================================================
+
+Access some of the available routes 
+
     List all cars - [GET] http://localhost:3001/car/index
 
     or
 
     Create a new car register - [POST] http://localhost:3001/car/create
-
+    
     The POST request expects a JSON with the following body:
-
+      
     * "brand":"chevrolet"
-    ``` 
-
 
 
 
