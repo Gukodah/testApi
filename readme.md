@@ -27,15 +27,15 @@ Tho run this project follow the instructions below
   ```
 ## Usage
 
-1. Access some of the available routes 
+1.  Access some of the available routes 
 
-  List all cars - [GET] http://localhost:3001/car/index
+    List all cars - [GET] http://localhost:3001/car/index
 
-  or
+    or
 
-  Create a new car register - [POST] http://localhost:3001/car/create
-  
-  The POST request expects a JSON with the following body:
+    Create a new car register - [POST] http://localhost:3001/car/create
     
-  ## "brand":"chevrolet"
+    The POST request expects a JSON with the following body:
+      
+    * "brand":"chevrolet"
 
