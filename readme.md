@@ -25,7 +25,7 @@ Tho run this project follow the instructions below
    ```sh
    npm start
   ```
-### Usage
+<h2>Usage</h2>
 1. Clone the repo
    ```sh
    git clone https://github.com/Gukodah/testApi.git
