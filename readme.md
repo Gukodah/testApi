@@ -27,7 +27,10 @@ Tho run this project follow the instructions below
   ```
 ## Usage
 
-1.  Access some of the available routes 
+
+
+
+    Access some of the available routes 
 
     List all cars - [GET] http://localhost:3001/car/index
 
